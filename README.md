@@ -1,7 +1,7 @@
 This repository contains several examples I implemented and more examples will be uploaded shortly. Here is a list of 
 the examples: 
 
-(1) Decision Tree Ensembles - It contains a decision tree implementation based on ID2, C4.5 and CART algorithms. Addition 
+(1) Decision Tree Ensembles - It contains a decision tree implementation based on ID3, C4.5 and CART algorithms. Addition 
     to the decision tree implementation, bagging and random forest were also implemented. All these implementations were 
     completed from SCRATCH, i.e.; we DID NOT rely on any available packages to facilatate the implementations. These were 
     coded in python prograamming language. 
