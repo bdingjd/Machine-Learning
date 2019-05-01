@@ -3,7 +3,7 @@ the examples:
 
 (1) Decision Tree Ensembles - It contains a decision tree implementation based on ID3, C4.5 and CART algorithms. Addition 
     to the decision tree implementation, bagging and random forest were also implemented. All these implementations were 
-    completed from SCRATCH, i.e.; we DID NOT rely on any available packages to facilatate the implementations. These were 
+    completed from SCRATCH, i.e.; we DID NOT rely on any available packages to facilitate the implementations. These were 
     coded in python prograamming language. 
 
 (3) Support Vector Machines - The core optimization routine was coded in C++ from scratch and python-c++ binding was 
