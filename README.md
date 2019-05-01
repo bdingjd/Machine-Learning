@@ -14,7 +14,7 @@ the examples:
     were coded in python prograamming language. 
     
     Mountain Car Continuous Version 0 - This is a module from Google OpenAI Gym, a standard and simple exercise for 
-    reinforcement learning. I coded it in python using a value iteration method, called Q-learning, in conjunction with neural 
-    network. The combination is called Deep Q-Network (DQN) method.  
+    reinforcement learning. I coded it in python using a value iteration method, called Q-learning, in conjunction with 
+    neural network. The combination is called Deep Q-Network (DQN) method.  
     
     Stock Trading Using Reinforcement Learning - It is under testing now and will be uploaed to the respository shortly.
