@@ -18,4 +18,4 @@ the examples:
     Q-learning, in conjunction with neural network. The combination is called Deep Q-Network (DQN) method.  
     
     Stock Trading Using Reinforcement Learning - It is under testing now and will be uploaded to the 
-    respository shortly.
+    repository shortly.
